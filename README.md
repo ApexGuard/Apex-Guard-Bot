@@ -27,7 +27,7 @@
 
 # How to setup
 - Clone the repo :
-- git clone https://github.com/apexguard/apexguard.git
+- git clone https://github.com/ApexGuard/Apex-Guard-Bot.git
 
 - Install dependencies :
 - npm install
